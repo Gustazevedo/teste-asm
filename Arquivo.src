@@ -2,3 +2,4 @@ TRMP17G
 *LABEL1  MVC  TEST1,=CL2'OI'
 TEST1   WTO  'XX'
 FIM     BR   R13
+mais codigo aqui
